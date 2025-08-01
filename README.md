@@ -1,4 +1,4 @@
-# the\_odin\_project
+# TheOdinProject
 
 Projects for [TheOdinProject](https://www.theodinproject.com/) curicculum.
 
